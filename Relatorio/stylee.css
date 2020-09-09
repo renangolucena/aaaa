@@ -1,0 +1,11 @@
+.texto{
+	align-items: center;
+	transition-property: background-color;
+	width: 100%;
+	text-align: center;
+}
+
+.texto:hover{
+	background-color: #f5f5f5;
+	
+}
